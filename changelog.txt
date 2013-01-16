@@ -1,3 +1,9 @@
+[B]Version 0.4.6[/B]
+
+- Necessary changes for Frodo Release
+- Works now with unicode characters in Windows XBMC and user profile paths
+
+
 [B]Version 0.4.5[/B]
 
 - Necessary changes for Eden Release
