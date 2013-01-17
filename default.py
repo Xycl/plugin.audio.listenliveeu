@@ -280,7 +280,7 @@ def getStreams(url):
                     if list_rate=='true':
                         label1 += " | %s" % (streamRate)
                         
-                    infolabels["Title"] = label1
+                    infolabels["Title"] = HTMLParser().unescape(label1)
                     streamRate2= streamRate.replace('Kbps', '')
                     streamRate2= streamRate2.replace('kbps', '')
                     #print 'rate2: ' + streamRate2 + ' - ' + 'min_rate: ' + min_rate
