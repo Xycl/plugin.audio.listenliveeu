@@ -1,3 +1,6 @@
+[B]Version 1.0.3[/B]
+- Fix:    Adding bookmarks fixed
+
 [B]Version 1.0.2[/B]
 
 - Update: Language files from Transifex
